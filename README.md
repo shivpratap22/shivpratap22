@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋 I'm Shiv Pratap Singh
 
-<!--
-**shivpratap22/shivpratap22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a passionate developer interested in AI, ML.  
+🌱 Currently learning: ROS2, Embedded AI, and Edge Computing  
+💡 Fun fact: I can debug faster with coffee ☕  
+📫 Reach me: [22shivpratapsingh@gmail.com] | [LinkedIn](https://www.linkedin.com/in/shivpratap321/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ **Tech Stack**
+- Languages: Python, C++, JavaScript
+- Frameworks: ROS 2, TensorFlow, PyTorch, React
+- Tools: Git, Docker, VS Code
+
+
+⚡ *“Strive for progress, not perfection.”*
+
